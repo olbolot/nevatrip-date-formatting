@@ -1,0 +1,22 @@
+{
+  "name": "date-formatting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OlBol/date-formatting.git"
+  },
+  "author": {
+    "name": "Olga Bolotova",
+    "email": "https://github.com/olbol"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OlBol/date-formatting/issues"
+  },
+  "homepage": "https://github.com/OlBol/date-formatting#readme"
+}
