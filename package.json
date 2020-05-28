@@ -18,5 +18,6 @@
   "bugs": {
     "url": "https://github.com/OlBol/nevatrip-date-formatting/issues"
   },
-  "homepage": "https://github.com/OlBol/nevatrip-date-formatting#readme"
+  "homepage": "https://github.com/OlBol/nevatrip-date-formatting#readme",
+  "dependencies": {}
 }
