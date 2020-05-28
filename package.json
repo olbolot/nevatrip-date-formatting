@@ -1,5 +1,5 @@
 {
-  "name": "date-formatting",
+  "name": "nevatrip-date-formatting",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/OlBol/date-formatting.git"
+    "url": "git+https://github.com/OlBol/nevatrip-date-formatting.git"
   },
   "author": {
     "name": "Olga Bolotova",
@@ -16,7 +16,7 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/OlBol/date-formatting/issues"
+    "url": "https://github.com/OlBol/nevatrip-date-formatting/issues"
   },
-  "homepage": "https://github.com/OlBol/date-formatting#readme"
+  "homepage": "https://github.com/OlBol/nevatrip-date-formatting#readme"
 }
