@@ -1,7 +1,7 @@
 {
-  "name": "nevatrip-date-formatting",
+  "name": "@nevatrip/date-formatter",
   "version": "1.0.3",
-  "description": "",
+  "description": "Simple date formatter ",
   "main": "index.js",
   "scripts": {
     "test": "echo \"No test specified\""
