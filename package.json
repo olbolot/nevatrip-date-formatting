@@ -1,6 +1,6 @@
 {
   "name": "@nevatrip/date-formatter",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Simple date formatter ",
   "main": "index.js",
   "scripts": {
