@@ -1,6 +1,6 @@
 {
   "name": "@nevatrip/date-formatter",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Simple date formatter ",
   "main": "index.js",
   "scripts": {
@@ -19,6 +19,10 @@
     "url": "https://github.com/OlBol/nevatrip-date-formatting/issues"
   },
   "homepage": "https://github.com/OlBol/nevatrip-date-formatting#readme",
-  "keywords": ["date", "format", "nevatrip"],
+  "keywords": [
+    "date",
+    "format",
+    "nevatrip"
+  ],
   "dependencies": {}
 }
