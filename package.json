@@ -19,5 +19,6 @@
     "url": "https://github.com/OlBol/nevatrip-date-formatting/issues"
   },
   "homepage": "https://github.com/OlBol/nevatrip-date-formatting#readme",
+  "keywords": ["date", "format", "nevatrip"],
   "dependencies": {}
 }
